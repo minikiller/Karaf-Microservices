@@ -37,7 +37,7 @@
 			</plugin>
 
 			<plugin>
-				<groupId>de.nierbeck.javaland.tools</groupId>
+				<groupId>de.nierbeck.microservices.karaf.tools</groupId>
 				<artifactId>karaf-deployer-maven-plugin</artifactId>
 				<configuration>
 					<url>http://192.168.59.103:8181/jolokia/</url>
@@ -59,7 +59,7 @@
 		<pluginManagement>
 			<plugins>
 				<plugin>
-					<groupId>de.nierbeck.javaland.tools</groupId>
+					<groupId>de.nierbeck.microservices.karaf.tools</groupId>
 					<artifactId>karaf-deployer-maven-plugin</artifactId>
 					<version>1.0.0-SNAPSHOT</version>
 				</plugin>

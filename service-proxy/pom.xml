@@ -110,7 +110,7 @@
 				</executions>
 			</plugin>
 			<plugin>
-				<groupId>de.nierbeck.javaland.tools</groupId>
+				<groupId>de.nierbeck.microservices.karaf.tools</groupId>
 				<artifactId>karaf-deployer-maven-plugin</artifactId>
 				<configuration>
 					<url>http://192.168.99.100:8181/jolokia/</url>
